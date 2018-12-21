@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13212" started-at="2018-12-20T16:30:20Z" finished-at="2018-12-20T16:30:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13212" started-at="2018-12-20T16:30:20Z" finished-at="2018-12-20T16:30:34Z">
+      <class name="MavenProject02.com.MavenProject02.DriverScript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:MavenProject02.com.MavenProject02.DriverScript@5b275dab]" name="setup" is-config="true" duration-ms="6840" started-at="2018-12-20T16:30:20Z" finished-at="2018-12-20T16:30:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc_End2EndShoppingCartTest()[pri:0, instance:MavenProject02.com.MavenProject02.DriverScript@5b275dab]" name="tc_End2EndShoppingCartTest" duration-ms="5596" started-at="2018-12-20T16:30:27Z" finished-at="2018-12-20T16:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_End2EndShoppingCartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MavenProject02.com.MavenProject02.DriverScript@5b275dab]" name="tearDown" is-config="true" duration-ms="726" started-at="2018-12-20T16:30:33Z" finished-at="2018-12-20T16:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MavenProject02.com.MavenProject02.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
