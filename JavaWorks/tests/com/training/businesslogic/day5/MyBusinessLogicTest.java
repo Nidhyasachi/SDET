@@ -2,13 +2,18 @@ package com.training.businesslogic.day5;
 
 import static org.junit.Assert.*;
 
-import org.junit.Test;
+import org.junit.*;
 
 public class MyBusinessLogicTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void getAllAccs() {};
+	
+	public void UpdatePercent() {};
+	
+	public void updateAccountPercent() {};
+	
+		
 	}
+	
+	
 
-}
